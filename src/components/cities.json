@@ -1,0 +1,1620 @@
+
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [36.75464221162412, 10.220965147018433]
+    },
+    "properties": {
+      "name": " Route 66 Ben Arous",
+      "country":"Tunisia",
+      "state":"Ben Arous",
+      "municipal":"Ben Arous"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [36.75398891279194, 10.220101475715639]
+    },
+    "properties": {
+      "name": " Chez Wacha",
+      "country":"Tunisia",
+      "state":"Ben Arous",
+      "municipal":"Ben Arous"    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [36.74826371398909,10.220503807067873]
+    },
+    "properties": {
+      "name": "happy meal ",
+      "country":"Tunisia",
+      "state":"Ben Arous",
+      "municipal":"Ben Arous" 
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [36.77045722227564,10.231994390487673]
+    },
+    "properties": {
+      "name": "Plan B megrine",
+      "country":"Tunisia",
+      "state":"Ben Arous",
+      "municipal":"Megrine"      
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [36.76819690692768,10.238184928894045]
+    },
+    "properties": {
+      "name": " ClassCroute",
+      "country":"Tunisia",
+      "state":"Ben Arous",
+      "municipal":"Megrine"    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [36.76801642260139,10.239998102188112]
+    },
+    "properties": {
+      "name": " Baguette & Baguette megrine",
+      "country":"Tunisia",
+      "state":"Ben Arous",
+      "municipal":"Megrine"     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [36.76824847380003,10.239027142524721]
+    },
+    "properties": {
+      "name": "Legend's",
+      "country":"Tunisia",
+      "state":"Ben Arous",
+      "municipal":"Megrine"     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [36.768188927744404,10.239177475755385]
+    },
+    "properties": {
+      "name": "Papa Johns",
+      "country":"Tunisia",
+      "state":"Ben Arous",
+      "municipal":"Megrine"  
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [36.76794828185659,10.240384469812087]
+    },
+    "properties": {
+      "name": " Tacos Chaneb",
+      "country":"Tunisia",
+      "state":"Ben Arous",
+      "municipal":"Megrine" 
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [36.74647127790933,10.250984430313112]
+    },
+    "properties": {
+      "name": " Queen medina",
+      "country":"Tunisia",
+      "state":"Ben Arous",
+      "municipal":"Medina jedida" 
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 36.7261239792168,10.256166458129883]
+    },
+    "properties": {
+      "name": " Azur city",
+      "country":"Tunisia",
+      "state":"Ben Arous",
+      "municipal":"Medina jedida"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [36.708235570623465,10.211534500122072]
+    },
+    "properties": {
+      "name": " Bab touma",
+      "country":"Tunisia",
+      "state":"Ben Arous",
+      "municipal":"Mourouj"    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [36.70844199909182,10.211985111236574]
+    },
+    "properties": {
+      "name": "The brother's food",
+      "country":"Tunisia",
+      "state":"Ben Arous",
+      "municipal":"Mourouj"     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [36.70703569417228,10.208262205123903]
+    },
+    "properties": {
+      "name": "My tacos",
+      "country":"Tunisia",
+      "state":"Ben Arous",
+      "municipal":"Mourouj"     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [36.714780803325624,10.21608889102936]
+    },
+    "properties": {
+      "name": " Plan B",
+      "country":"Tunisia",
+      "state":"Ben Arous",
+      "municipal":"Mourouj"    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [36.716260069077066,10.211142897605898]
+    },
+    "properties": {
+      "name": " Yobo",
+      "country":"Tunisia",
+      "state":"Ben Arous",
+      "municipal":"Mourouj" 
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [23.7289,90.3944]
+    },
+    "properties": {
+      "name": "Dhaka ",
+      "country":"Bangladesh"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-34.5997,-58.3819]
+    },
+    "properties": {
+      "name": "Buenos Aires",
+      "country":"Argentina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [6.4500,3.4000]
+    },
+    "properties": {
+      "name": " Lagos",
+      "country":"Nigeria"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [41.0100,28.9603]
+    },
+    "properties": {
+      "name": " Istanbul",
+      "country":"Turkey"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.8600,67.0100]
+    },
+    "properties": {
+      "name": " Karachi",
+      "country":"Pakistan"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-4.3317,15.3139]
+    },
+    "properties": {
+      "name": " Kinshasa",
+      "country":"Congo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [35.7000,51.4167]
+    },
+    "properties": {
+      "name": " Tehran",
+      "country":"Iran"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-22.9083,-43.1964]
+    },
+    "properties": {
+      "name": "Rio de Janeiro",
+      "country":"Brazil"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [51.5072,-0.1275]
+    },
+    "properties": {
+      "name": " London",
+      "country":"United Kingdom"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [48.8566,2.3522]
+    },
+    "properties": {
+      "name": " Paris",
+      "country":"France"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-8.8383,13.2344]
+    },
+    "properties": {
+      "name": " Luanda",
+      "country":"Angola"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [3.1478,101.6953]
+    },
+    "properties": {
+      "name": " Kuala Lumpur",
+      "country":"Malaysia"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [41.8373,-87.6862]
+    },
+    "properties": {
+      "name": " Chicago",
+      "country":"United States"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.0245,105.8412]
+    },
+    "properties": {
+      "name": " Hanoi",
+      "country":"Vietnam"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-6.8000,39.2833]
+    },
+    "properties": {
+      "name": " Dar es Salaam",
+      "country":"Tanzania"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [22.3069,114.1831]
+    },
+    "properties": {
+      "name": " Hong Kong",
+      "country":"Hong Kong"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-33.4500,-70.6667]
+    },
+    "properties": {
+      "name": " Santiago",
+      "country":"Chile"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.6500,46.7100]
+    },
+    "properties": {
+      "name": " Riyadh",
+      "country":"Saudi Arabia"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [25.7839,-80.2102]
+    },
+    "properties": {
+      "name": " Miami",
+      "country":"United States"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [33.3500,44.4167]
+    },
+    "properties": {
+      "name": " Baghdad",
+      "country":"Iraq"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [15.6031,32.5265]
+    },
+    "properties": {
+      "name": " Khartoum",
+      "country":"Sudan"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [40.4167,-3.7167]
+    },
+    "properties": {
+      "name": " Madrid",
+      "country":"Spain"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [33.7627,-84.4224]
+    },
+    "properties": {
+      "name": " Atlanta",
+      "country":"United States"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.7475,96.1150]
+    },
+    "properties": {
+      "name": " Nay Pyi Taw",
+      "country":"Myanmar"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [43.7417,-79.3733]
+    },
+    "properties": {
+      "name": " Toronto",
+      "country":"Canada"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [59.9500,30.3167]
+    },
+    "properties": {
+      "name": " Saint Petersburg",
+      "country":"Russia"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [1.3000,103.8000]
+    },
+    "properties": {
+      "name": " Singapore",
+      "country":"Singapore"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [5.3364,-4.0267]
+    },
+    "properties": {
+      "name": " Abidjan",
+      "country":"Côte d'Ivoire"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-33.8650,151.2094]
+    },
+    "properties": {
+      "name": " Sydney",
+      "country":"Australia"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-4.3317,15.3139]
+    },
+    "properties": {
+      "name": " Barcelona",
+      "country":"Spain"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [42.3188,-71.0846]
+    },
+    "properties": {
+      "name": " Boston",
+      "country":"United States"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-37.8136,144.9631]
+    },
+    "properties": {
+      "name": " Melbourne",
+      "country":"Australia"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-26.2044,28.0416]
+    },
+    "properties": {
+      "name": " Johannesburg",
+      "country":"South Africa"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [33.5992,-7.6200]
+    },
+    "properties": {
+      "name": " Casablanca",
+      "country":"Morocco"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [34.5328,69.1658]
+    },
+    "properties": {
+      "name": " Kabul",
+      "country":"Afghanistan"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [31.9500,35.9333]
+    },
+    "properties": {
+      "name": " Amman",
+      "country":"Jordan"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-4.3317,15.3139]
+    },
+    "properties": {
+      "name": " Kinshasa",
+      "country":"Congo"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.5428,39.1728]
+    },
+    "properties": {
+      "name": " Jeddah",
+      "country":"Saudi Arabia"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [45.5089,-73.5617]
+    },
+    "properties": {
+      "name": " Montreal",
+      "country":"Canada"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [42.3834,-83.1024]
+    },
+    "properties": {
+      "name": " Detroit",
+      "country":"United States"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [52.5167,13.383]
+    },
+    "properties": {
+      "name": " Berlin",
+      "country":"Germany"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [37.7562,-122.4430]
+    },
+    "properties": {
+      "name": " San Francisco",
+      "country":"United States"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [35.1000,129.0403]
+    },
+    "properties": {
+      "name": " Busan",
+      "country":"South Korea"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [36.7764,3.0586]
+    },
+    "properties": {
+      "name": " Algiers",
+      "country":"Algeria"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [9.0272,38.7369]
+    },
+    "properties": {
+      "name": " Addis Ababa",
+      "country":"Ethiopia"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-15.7939,-47.8828]
+    },
+    "properties": {
+      "name": " Brasilia",
+      "country":"Brazil"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [29.3750,47.9800]
+    },
+    "properties": {
+      "name": " Kuwait City",
+      "country":"Kuwait"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.4500,30.5236]
+    },
+    "properties": {
+      "name": " Kyiv",
+      "country":"Ukraine"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [15.3500,44.2000]
+    },
+    "properties": {
+      "name": " Sanaa",
+      "country":"Yemen"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [14.6099,-90.5252]
+    },
+    "properties": {
+      "name": " Guatemala City",
+      "country":"Guatemala"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [41.8931,12.4828]
+    },
+    "properties": {
+      "name": " Rome",
+      "country":"Italy"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-16.4942,-68.1475]
+    },
+    "properties": {
+      "name": " La Paz",
+      "country":"Bolivia"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [39.0300,125.7300]
+    },
+    "properties": {
+      "name": " Pyongyang",
+      "country":"North Korea"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [25.0478,121.5319]
+    },
+    "properties": {
+      "name": " Taipei",
+      "country":"Taiwan"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-2.1900,-79.8875]
+    },
+    "properties": {
+      "name": " Guayaquil",
+      "country":"Ecuador"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-12.2765,49.3115]
+    },
+    "properties": {
+      "name": " Antsiranana",
+      "country":"Madagascar"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [18.4764,-69.8933]
+    },
+    "properties": {
+      "name": " Santo Domingo",
+      "country":"Dominican Republic"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [12.3686,-1.5275]
+    },
+    "properties": {
+      "name": " Ouagadougou",
+      "country":"Burkina Faso"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [41.3000,69.2667]
+    },
+    "properties": {
+      "name": " Tashkent",
+      "country":"Uzbekistan"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [3.8578,11.5181]
+    },
+    "properties": {
+      "name": " Yaounde",
+      "country":"Cameroon"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [5.6037,-0.1870]
+    },
+    "properties": {
+      "name": " Accra",
+      "country":"Ghana"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [40.3667,49.8352]
+    },
+    "properties": {
+      "name": " Baku",
+      "country":"Azerbaijan"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.8292,31.0522]
+    },
+    "properties": {
+      "name": " Zimbabwe",
+      "country":"Congo"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [23.1367,-82.3589]
+    },
+    "properties": {
+      "name": " Havana",
+      "country":"Cuba"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [11.5696,104.9210]
+    },
+    "properties": {
+      "name": " Phnom Penh",
+      "country":"Cambodia"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.0408,45.3425]
+    },
+    "properties": {
+      "name": " Mogadishu",
+      "country":"Somalia"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [12.6458,-7.9922]
+    },
+    "properties": {
+      "name": " Bamako",
+      "country":"Mali"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2200,-78.5125]
+    },
+    "properties": {
+      "name": " Quito",
+      "country":"Ecuador"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [53.9022,27.5618]
+    },
+    "properties": {
+      "name": " Minsk",
+      "country":"Belarus"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [10.5000,-66.9333]
+    },
+    "properties": {
+      "name": " Caracas",
+      "country":"Venezuela"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [44.4000,26.0833]
+    },
+    "properties": {
+      "name": " Bucharest",
+      "country":"Romania"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [48.2083,16.3725]
+    },
+    "properties": {
+      "name": " Vienna",
+      "country":"Austria"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-4.2667,15.2833]
+    },
+    "properties": {
+      "name": " Brazzaville",
+      "country":"Congo Brazzaville"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [33.5131,36.2919]
+    },
+    "properties": {
+      "name": " Damascus",
+      "country":"Syria"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-15.4167,28.2833]
+    },
+    "properties": {
+      "name": " Lusaka",
+      "country":"Zambia"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [47.4983,19.0408]
+    },
+    "properties": {
+      "name": " Budapest",
+      "country":"Hungary"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-9.5380,-13.6773]
+    },
+    "properties": {
+      "name": " Conakry",
+      "country":"Guinea"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.3136,32.5811]
+    },
+    "properties": {
+      "name": " Kampala",
+      "country":"Uganda"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.4511,54.3969]
+    },
+    "properties": {
+      "name": " Abu Dhabi",
+      "country":"United Arab Emirates"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [23.6139,58.5922]
+    },
+    "properties": {
+      "name": " Muscat",
+      "country":"Oman"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [47.9214,106.9055]
+    },
+    "properties": {
+      "name": " Ulaanbaatar",
+      "country":"Mongolia"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [44.8167,20.4667]
+    },
+    "properties": {
+      "name": " Belgrade",
+      "country":"Serbia"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.0833,14.4167]
+    },
+    "properties": {
+      "name": " Prague",
+      "country":"Czechia"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-34.8667,-56.1667]
+    },
+    "properties": {
+      "name": " Montevideo",
+      "country":"Uruguay"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [42.6979,23.3217]
+    },
+    "properties": {
+      "name": " Sofia",
+      "country":"Bulgaria"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [9.0556,7.4914]
+    },
+    "properties": {
+      "name": " Abuja",
+      "country":"Nigeria"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-25.9153,32.5764]
+    },
+    "properties": {
+      "name": " Maputo",
+      "country":"Mozambique"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [14.7319,-17.4572]
+    },
+    "properties": {
+      "name": " Dakar",
+      "country":"Senegal"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-1.9536,30.0606]
+    },
+    "properties": {
+      "name": " Kigali",
+      "country":"Rwanda"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [32.8752,13.1875]
+    },
+    "properties": {
+      "name": " Tripoli",
+      "country":"Libya"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [14.0942,-87.2067]
+    },
+    "properties": {
+      "name": " Tegucigalpa",
+      "country":"Honduras"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [41.7225,44.7925]
+    },
+    "properties": {
+      "name": " Tbilisi",
+      "country":"Georgia"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [55.6805,12.5615]
+    },
+    "properties": {
+      "name": " Copenhagen",
+      "country":"Denmark"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [12.1100,15.0500]
+    },
+    "properties": {
+      "name": " Djamena",
+      "country":"Chad"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [40.1814,44.5144]
+    },
+    "properties": {
+      "name": " Yerevan",
+      "country":"Armenia"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [51.1333,71.4333]
+    },
+    "properties": {
+      "name": " Nur-Sultan",
+      "country":"Kazakhstan"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [18.0858,-15.9785]
+    },
+    "properties": {
+      "name": " Nouakchott",
+      "country":"Mauritania"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [42.8667,74.5667]
+    },
+    "properties": {
+      "name": " Bishkek",
+      "country":"Kyrgyzstan"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [36.8008,10.1800]
+    },
+    "properties": {
+      "name": " Tunis",
+      "country":"Tunisia"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [27.7167,85.3667]
+    },
+    "properties": {
+      "name": " Kathmandu",
+      "country":"Nepal"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.5086,2.1111]
+    },
+    "properties": {
+      "name": " Niamey",
+      "country":"Niger"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [12.1500,-86.2667]
+    },
+    "properties": {
+      "name": " Managua",
+      "country":"Nicaragua"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [6.3106,-10.8047]
+    },
+    "properties": {
+      "name": " Monrovia",
+      "country":"Liberia"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [18.5425,-72.3386]
+    },
+    "properties": {
+      "name": " Port-au-Prince",
+      "country":"Haiti"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [33.6989,73.0369]
+    },
+    "properties": {
+      "name": " Islamabad",
+      "country":"Pakistan"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [45.4247,-75.6950]
+    },
+    "properties": {
+      "name": " Ottawa",
+      "country":"Canada"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [59.3294,18.0686]
+    },
+    "properties": {
+      "name": " Stockholm",
+      "country":"Sweden"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [15.3333,38.9167]
+    },
+    "properties": {
+      "name": " Asmara",
+      "country":"Eritrea"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [8.4833,-13.2331]
+    },
+    "properties": {
+      "name": " Freetown",
+      "country":"Sierra Leone"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.9667,102.6000]
+    },
+    "properties": {
+      "name": " Vientiane",
+      "country":"Laos"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [9.0000,-79.5000]
+    },
+    "properties": {
+      "name": "Panama City",
+      "country":"Panama"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [52.3667,4.8833]
+    },
+    "properties": {
+      "name": " Amsterdam",
+      "country":"Netherlands"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [6.1319,1.2228]
+    },
+    "properties": {
+      "name": " Lome",
+      "country":"Togo"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.3901,9.4544]
+    },
+    "properties": {
+      "name": " Libreville",
+      "country":"Gabon"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [45.8131,15.9772]
+    },
+    "properties": {
+      "name": " Zagreb",
+      "country":"Croatia"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [38.5731,68.7864]
+    },
+    "properties": {
+      "name": " Dushanbe",
+      "country":"Tajikistan"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [6.4020,2.5180]
+    },
+    "properties": {
+      "name": " Cotonou",
+      "country":"Benin"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [6.9167,79.8333]
+    },
+    "properties": {
+      "name": " Colombo",
+      "country":"Sri Lanka"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-25.7464,28.1881]
+    },
+    "properties": {
+      "name": " Pretoria",
+      "country":"South Africa"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [59.9111,10.7528]
+    },
+    "properties": {
+      "name": " Oslo",
+      "country":"Norway"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [37.9842,23.7281]
+    },
+    "properties": {
+      "name": " Athens",
+      "country":"Greece"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-3.3825,29.3611]
+    },
+    "properties": {
+      "name": " Bujumbura",
+      "country":"Burundi"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [60.1756,24.9342]
+    },
+    "properties": {
+      "name": " Helsinki",
+      "country":"Finland"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [41.9833,21.4333]
+    },
+    "properties": {
+      "name": " Skopje",
+      "country":"Macedonia"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [47.0228,28.8353]
+    },
+    "properties": {
+      "name": " Chisinau",
+      "country":"Moldova"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [56.9475,24.1069]
+    },
+    "properties": {
+      "name": " Riga",
+      "country":"Latvia"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.9714,-76.7931]
+    },
+    "properties": {
+      "name": " Kingston",
+      "country":"Jamaica"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.6989,-89.1914]
+    },
+    "properties": {
+      "name": " San Salvador",
+      "country":"El Salvador"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [11.5950,43.1481]
+    },
+    "properties": {
+      "name": " Djibouti",
+      "country":"Djibouti"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [53.3497,-6.2603]
+    },
+    "properties": {
+      "name": " Dublin",
+      "country":"Ireland"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-25.3000,-57.6333]
+    },
+    "properties": {
+      "name": " Asuncion",
+      "country":"Paraguay"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [38.7080,-9.1390]
+    },
+    "properties": {
+      "name": " Lisbon",
+      "country":"Portugal"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [48.1447,17.1128]
+    },
+    "properties": {
+      "name": " Bratislava",
+      "country":"Slovakia"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [59.4372,24.7450]
+    },
+    "properties": {
+      "name": " Tallinn",
+      "country":"Estonia"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [33.8869,35.5131]
+    },
+    "properties": {
+      "name": " Beirut",
+      "country":"Lebanon"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-33.9250,18.4250]
+    },
+    "properties": {
+      "name": " Cape Town",
+      "country":"South Africa"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [41.3300,19.8200]
+    },
+    "properties": {
+      "name": " Tirana",
+      "country":"Albania"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-6.1835,35.7460]
+    },
+    "properties": {
+      "name": " Dodoma",
+      "country":"Tanzania"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-41.2889,174.7772]
+    },
+    "properties": {
+      "name": " Wellington",
+      "country":"New Zealand"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [11.8592,-15.5956]
+    },
+    "properties": {
+      "name": " Bissau",
+      "country":"Guinea-Bissau"
+    }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [4.8500,31.6000]
+    },
+    "properties": {
+      "name": " Juba",
+      "country":"South Sudan"
+    }
+  }
+]
